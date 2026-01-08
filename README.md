@@ -1,9 +1,10 @@
 # Hi, I'm Ricardo 👋  
 
-#### I’m an Information Systems and Database Programming student at ATEC.  
-#### I’m passionate about learning, improving my coding skills, and building practical solutions.  
-#### I’m currently looking for opportunities to collaborate on open-source projects and grow as a developer.  
-### I’m also open to mentorship and networking, feel free to connect!
+#### Information Systems and Database Programming student at ATEC, with a strong interest in software development and problem-solving.  
+#### Focused on continuous learning, improving technical skills, and building practical, real-world solutions.
+
+#### Currently looking for opportunities to collaborate on open-source projects, gain hands-on experience, and grow as a developer.  
+#### Open to mentorship, knowledge sharing, and networking, feel free to connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-galvao-evans/?locale=pt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ricardo.Evans.T0130955@edu.atec.pt) 
